@@ -2,7 +2,7 @@
 
 > 【电报推荐】10000+ 优质 Telegram 群组、频道、机器人，精心筛选，让您轻松玩转 Telegram。
 
-📢 **Telegram中文频道:** [@wctrx](https://t.me/wcsssTRX) | 🌐 **官方网站:** [@WCTRX](https://t.me/wcsssSTRX) | 📧 **商务合作:** [@Mfack_bot]([@](https://t.me/Mfack_bot)
+📢 **Telegram中文频道:** [@wctrx](https://t.me/wcsssTRX) | 🌐 **官方网站:** [@WCTRX](https://t.me/wcsssSTRX) | 📧 **商务合作:** [Mfack](https://t.me/Mfack_bot)
 
 ---
 
@@ -45,16 +45,6 @@
 
 > [my.telegram.org/auth?to=apps](https://my.telegram.org/auth?to=apps)
 
-### 免费可用的 API Key / Hash
-
-```
-nagram: api-id: 11535358 api-hash: 33d372962fadb01df47e6ceed4e33cd6
-telegram-android: api-id: 4 api-hash: 014b35b6184100b085b0d0572f9b5103
-telegram-desktop: api-id: 2040 api-hash: b18441a1ff607e10a989891a5462e627
-telegram-swift: api-id: 10840 api-hash: 33c45224029d59cb3ad0c16134215aeb
-```
-
----
 
 ## 📚 机器人分类索引
 
