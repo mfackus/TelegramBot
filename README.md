@@ -2,7 +2,7 @@
 
 > 【电报推荐】10000+ 优质 Telegram 群组、频道、机器人，精心筛选，让您轻松玩转 Telegram。
 
-📢 **Telegram中文频道:** [@tgcn_wiki](https://t.me/tgcn_wiki) | 🌐 **官方网站:** [tg10000.com](https://tg10000.com) | 📧 **商务合作:** [@tglumao@gmail.com](mailto:tglumao@gmail.com)
+📢 **Telegram中文频道:** [@wctrx](https://t.me/wcsssTRX) | 🌐 **官方网站:** [@WCTRX](https://t.me/wcsssSTRX) | 📧 **商务合作:** [@Mfack_bot]([@](https://t.me/Mfack_bot)
 
 ---
 
@@ -22,12 +22,12 @@
 
 ---
 
-## ⚡ 广告推广位
+## ⚡ TRX闪兑能量闪租机器人（靠谱）
 
 | 类别 | 链接/地址 | 说明 |
 |:---|:---|:---|
 | **🚀 机场推荐** | [@jichangtuijian](https://github.com/vpnnav/jichangtuijian) | 2026年低价高速机场/VPN导航 |
-| **⚡️能量闪租⚡️** | **`TDNdvYxdY1eaxjRMJaS6NqPQWC77777777`** | 🟩1笔USDT转账能量=3TRX / 🟨2笔=6TRX |
+| **⚡️能量闪租⚡️** | **`TDNdvYxdY1eaxjRMJaS6NqPQWC77777777`** | 🟩1笔USDT转账能量=2.5 TRX / 🟨2笔=5 TRX |
 | **✅ TRX闪兑** | **`TCLX5K56kUDnbXb4z6vQPPn8eS88888888`** | TRX-USDT 24小时自动兑换，1U起兑 |
 | **⚡️能量机器人** | [@WCTRX_bot](https://t.me/WCTRX_bot) | 能量租赁、TRX闪兑、7×24秒回、实时汇率 |
 
